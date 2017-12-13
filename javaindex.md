@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 
 <head lang="en">
     <meta charset="UTF-8">
@@ -45,4 +44,4 @@
                     </th>
                     <th>js-10</th>
                 </tr>
-</main></body></html>
+
